@@ -1,0 +1,8 @@
+1;Carlos;Palio;9,9;Centro
+2;Maria;Civic;8,7;Hospital
+3;Ana;Corolla;5,0;Ifpb
+4;Joao;Celta;6,9;Casa
+5;Rafael;Fiat Uno;10,0;Lan House
+6;Gabriela;HB20;9,0;Shopping
+7;Eduardo;Kwid;3,9;Parque
+8;Diana;Fiat Mobi;8,7;Casa do amigo
