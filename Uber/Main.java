@@ -59,7 +59,7 @@ public class Main {
         String enderecoAtual = scanner.nextLine();
 
         if (!crudEndereco.enderecoExiste(enderecoAtual)) {
-            System.out.println("Endereço atual não encontrado. Aqui estão os endereços disponíveis:");
+            System.out.println("Endereço atual não encontrado.");
             crudEndereco.listarEnderecos();
             return;
         }
@@ -67,16 +67,6 @@ public class Main {
         System.out.println("Para onde desejaria ir?");
         listarEnderecos(crudEndereco.listarEnderecos(), scanner, "Digite seu destino: ", enderecoAtual);
         String enderecoDestino = scanner.nextLine();
-
-        if (!crudEndereco.enderecoExiste(enderecoDestino)) {
-            System.out.println("Endereço de destino não encontrado. Adicionando ao sistema.");
-            crudEndereco.adicionarEndereco(new Endereco(enderecoDestino));
-        }
-
-        if (enderecoAtual.isEmpty() || enderecoDestino.isEmpty()) {
-            System.out.println("Endereço atual ou de destino não pode estar vazio.");
-            return;
-        }
 
         double distancia;
         try {
