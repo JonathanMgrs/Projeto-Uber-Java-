@@ -15,7 +15,7 @@
 
 ## Sistemas Pendentes
 
-- Mapa no estilo "batalha naval" com as seguintes informações: Local onde o passageiro encontra(partida), Local de destino, motoristas que estiveram perto.
+- Mapa no estilo "batalha naval" com as seguintes informações: Local onde o passageiro está(partida), Local de destino, motoristas que estiveram perto.
 
 ## Tecnologias Utilizadas
 
