@@ -4,14 +4,14 @@
 
 ## Sistemas Utilizados
 
-- CRUD de motorista
-- CRUD de passageiro
-- Passageiro solicita corrida
-	  Simular a existência de vários motoristas que estão perto e indicar o mais próximo
-	  Calcular distância entre dois endereços
-	  Passageiro avalia motorista e vice versa
-- Histórico de corridas
-- Endereços salvos 
+- CRUD de motorista;
+- CRUD de passageiro;
+- Passageiro solicita corrida, 
+	  Simular a existência de vários motoristas que estão perto e indicar o mais próximo, 
+	  Calcular distância entre dois endereços, 
+	  Passageiro avalia motorista e vice versa; 
+- Histórico de corridas;
+- Endereços salvos.
 
 ## Sistemas Pendentes
 
